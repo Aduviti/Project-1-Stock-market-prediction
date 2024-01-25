@@ -1,1 +1,1 @@
-This repository includes the codebase to a stock market prediction project using Gradient Boosting Regressor model.
+This repository includes the codebase and documentation to a Stock Market Prediction project using Gradient Boosting Regressor model.
